@@ -117,6 +117,7 @@ Nel file *Esercizio.java*, completa il contenuto della funzione *esercizio1*, ri
 La matrice può essere visualizzata con l'istruzione *UtilsMatrice.visualizza(matrice);* <br/>
 Eseguire il programma per controllare che il contenuto della matrice sia come ci si aspetti.
 
+<hr/>
 <details>
   <summary>Solo dopo aver svolto l'esercizio, apri qui per vedere la soluzione</summary>
 
@@ -133,6 +134,7 @@ public static void esercizio1() {
 }
 ```
 </details>
+<hr/>
 
 ## Esercizio 2
 Nel file *Esercizio.java*, completa il contenuto della funzione *esercizio2*, codificando il seguente algoritmo.<br/>
@@ -149,7 +151,7 @@ ESERCIZIO 2:
 [0 0 0 0 0]
 ```
 
-
+<hr/>
 <details>
   <summary>Solo dopo aver svolto l'esercizio, apri qui per vedere la soluzione</summary>
 
@@ -165,7 +167,7 @@ public static void esercizio2() {
 }
 ```
 </details>
-
+<hr/>
 
 ## Esercizio 3
 Nel file *Esercizio.java*, completa il contenuto della funzione *esercizio3*, codificando il seguente algoritmo.<br/>
@@ -180,7 +182,7 @@ ESERCIZIO 3:
 [0 0 0 7 0]
 [0 0 0 7 0]
 ```
-
+<hr/>
 <details>
   <summary>Solo dopo aver svolto l'esercizio, apri qui per vedere la soluzione</summary>
 
@@ -198,3 +200,4 @@ void esercizio3()
 }
 ```
 </details>
+<hr/>
