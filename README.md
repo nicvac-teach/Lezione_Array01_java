@@ -187,16 +187,14 @@ ESERCIZIO 3:
   <summary>Solo dopo aver svolto l'esercizio, apri qui per vedere la soluzione</summary>
 
 ```Java
-void esercizio3() 
-{
+public static void esercizio3() {
   int i;
-  matrix<int> miaMatrice(3,5);
-  for (i=0; i<=2; i=i+1 )
-  {
+  int[][] miaMatrice = int[3][5];
+  for (i=0; i<=2; i=i+1 ) {
     miaMatrice[i][3] = 7;
   }
 
-  cout << miaMatrice;
+  UtilsMatrice.visualizza(miaMatrice);
 }
 ```
 </details>
