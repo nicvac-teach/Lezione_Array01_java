@@ -1,26 +1,33 @@
-//LEGGERE LE ISTRUZIONI NEL FILE README.md
 
-//Import di Classi Java necessarie al funzionamento del programma
-import java.util.Scanner;
+public class Esercizio {
+    
+    public static void esercizio1() {
+        // SCRIVERE QUI IL CODICE DELL'ESERCIZIO 1
+    }
+    
+    public static void esercizio2() {
+        // SCRIVERE QUI IL CODICE DELL'ESERCIZIO 2
+    }
+    
+    public static void esercizio3() {
+        // SCRIVERE QUI IL CODICE DELL'ESERCIZIO 3
+    }
+    
+    public static void main(String[] args) {
 
-// Classe principale, con metodo main
-class Esercizio {
-    // Il programma parte con una chiamata a main().
-    public static void main(String args[])
-    {
-        //Variabili del programma
-        String nome;
-
-        //Creo l'oggetto in per l'input da tastiera
-        Scanner in = new Scanner( System.in );
-
-        //Leggo l'input da tastiera
-        System.out.print("Inserisci il tuo nome: ");
-        nome = in.nextLine();
-
-        //Output del nome acquisito da tastiera
-        System.out.println("Ciao "+nome+"!");
+        System.out.println();
+        System.out.println("ESERCIZIO 1: ");
+        System.out.println("----- ----- -----");
+        esercizio1();
+        
+        System.out.println();
+        System.out.println("ESERCIZIO 2: ");
+        System.out.println("----- ----- -----");
+        esercizio2();
+        
+        System.out.println();
+        System.out.println("ESERCIZIO 3: ");
+        System.out.println("----- ----- -----");
+        esercizio3();
     }
 }
-
-//LEGGERE LE ISTRUZIONI NEL FILE README.md
